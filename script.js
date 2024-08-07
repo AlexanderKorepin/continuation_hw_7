@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', async (e) => {
                                 <p>Price: <span class="red">$${element.$}</span></p>
                                 <p>Color: <span class="gray">${element.color}</span></p>
                                 <p>Size: <span class="gray">${element.size}</span></p>
-                                <p>Quantity: <input type="number" value="${card_items[id]}" readonly></p>
+                                <p>Quantity: <input type="number" value="${card_items[id]}"></p>
                             </div>
                         </div>
                         <button class="delete" id="${id}">

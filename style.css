@@ -36,7 +36,7 @@ header {
 	padding: 19px 0;
 }
 
-.header__wrapper {
+.header__product {
 	display: flex;
 	justify-content: space-between;
 }
@@ -82,7 +82,7 @@ header {
 	margin-bottom: 65px;
 }
 
-.banner__wrapper {
+.banner__product {
 	max-width: 1600px;
 	margin: 0 auto;
 	display: flex;
